@@ -1,5 +1,5 @@
 # About-Me
-As "Doctor Xdrive," Matt K. Olson acted as the final line of support for high-revenue enterprise clients, managing complex data issues that arose before a case was escalated to engineering. This role focused on resolving the unique data management and synchronization challenges faced by early cloud adopters like Disney, Coca-Cola, GE, and Sony. 
+As "Doctor Xdrive," Matt K. Olson acted as the final line of support for high-revenue enterprise clients, managing complex data issues that arose before a case was escalated to engineering. This role focused on resolving the unique data management and synchronization challenges faced by early cloud adopters like Disney, Coca-Cola, GE, Sony, and may others, to many to mention here. 
 
 Key examples of data management issues Olson resolved include:
 
